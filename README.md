@@ -17,4 +17,4 @@
 
 - 수료
 
-<img src="https://user-images.githubusercontent.com/62232217/148658602-43b4becd-e391-4473-ab41-6bf4edf32743.png"  width="470" height="700"/>
+<img src="https://user-images.githubusercontent.com/62232217/148658602-43b4becd-e391-4473-ab41-6bf4edf32743.png"  width="480" height="700"/>
