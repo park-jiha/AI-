@@ -11,7 +11,7 @@
 - 활동 사진
 
 <img src="https://user-images.githubusercontent.com/62232217/148658461-376442b2-1f1e-4810-9be0-c35c6d24698a.jpg"  width="400" height="290"/> <img src="https://user-images.githubusercontent.com/62232217/148658568-f4d8a6e8-dcd4-4b46-9860-a6b39d5e413c.png"  width="450" height="270"/><br>
-<img src="https://user-images.githubusercontent.com/62232217/148658480-671b11aa-2f4a-426e-b31e-a0af61d245a4.jpg"  width="250" height="450"/><img src="https://user-images.githubusercontent.com/62232217/148658520-e7d5d14b-e9b2-4346-9812-563ccddaccf7.png"  width="250" height="450"/>
+<img src="https://user-images.githubusercontent.com/62232217/148658480-671b11aa-2f4a-426e-b31e-a0af61d245a4.jpg"  width="260" height="450"/><img src="https://user-images.githubusercontent.com/62232217/148658520-e7d5d14b-e9b2-4346-9812-563ccddaccf7.png"  width="300" height="450"/>
 ![KakaoTalk_Snapshot_20200830_230351](https://user-images.githubusercontent.com/62232217/148658558-f8b2a234-b573-4015-9d57-ddc4f21c8cbd.png)
 
 - 수료
