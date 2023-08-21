@@ -11,7 +11,7 @@
 - 활동 사진
 
 <img src="https://user-images.githubusercontent.com/62232217/148658461-376442b2-1f1e-4810-9be0-c35c6d24698a.jpg"  width="370" height="270"/> <img src="https://user-images.githubusercontent.com/62232217/148658568-f4d8a6e8-dcd4-4b46-9860-a6b39d5e413c.png"  width="440" height="270"/><br>
-<img src="https://github.com/park-jiha/AI-Mentoring/assets/62232217/0a0e4d63-3ecb-4907-a973-0eb194039fda.jpg"  width="270" height="450"/><img src="https://user-images.githubusercontent.com/62232217/148658520-e7d5d14b-e9b2-4346-9812-563ccddaccf7.png"  width="270" height="400"/><img src="https://user-images.githubusercontent.com/62232217/148658558-f8b2a234-b573-4015-9d57-ddc4f21c8cbd.png"  width="270" height="300"/>
+<img src="https://github.com/park-jiha/AI-Mentoring/assets/62232217/0a0e4d63-3ecb-4907-a973-0eb194039fda.jpg"  width="270" height="360"/><img src="https://user-images.githubusercontent.com/62232217/148658520-e7d5d14b-e9b2-4346-9812-563ccddaccf7.png"  width="270" height="400"/><img src="https://user-images.githubusercontent.com/62232217/148658558-f8b2a234-b573-4015-9d57-ddc4f21c8cbd.png"  width="270" height="300"/>
 
 - 수료
 
